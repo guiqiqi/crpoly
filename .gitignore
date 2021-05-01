@@ -1,0 +1,8 @@
+.DS_Store
+oss.sec
+public
+old
+node_modules
+db.json
+__pycache__/
+.vscode/
