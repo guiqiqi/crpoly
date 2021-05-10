@@ -1,0 +1,58 @@
+<section class="hero is-large auto-dark">
+    <div class="hero-head">
+        <header class="navbar" aria-label="main navigation">
+            <div class="container">
+                <div class="navbar-brand header-title">
+                    <a class="navbar-item is-uppercase has-text-weight-semibold" href="<%= url_for('/') %>">
+                            <%= config.title %>
+                    </a>
+                    <a role="button" class="navbar-burger" data-target="header-menu" aria-label="menu" aria-expanded="false">
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                        <span aria-hidden="true"></span>
+                    </a>
+                </div>
+                <div class="navbar-menu" id="header-menu">
+                    <div class="navbar-end">
+                        <% for (let item of theme.menubar) { %>
+                            <a class="navbar-item is-uppercase" href="<%= item[0] %>">
+                                <%= item[1] %>
+                            </a>
+                        <% } %>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+
+    <div class="hero-body">
+        <div class="container has-text-centered">
+            <p class="title">
+                <% if (theme.logo) { %>
+                    <span class="header-logo" style="background-image: url('<%= theme.logo %>');">
+                    </span>
+                <% } else { %>
+                    <span class="header-title is-size-2 is-family-monospace is-uppercase">
+                        <%= config.title %>
+                    </span>
+                <% } %> 
+            </p>
+            <p class="subtitle is-size-6">
+                <%- config.description %>
+                <ul class="header-navbar">
+                    <% for (let index in theme.navbar) { %>
+                        <% 
+                            const mapping = theme.navbar[index];
+                            const link = mapping[0];
+                            const favicon = mapping[1];
+                            let outter = link.startsWith("https://") ? true : false;
+                        %>
+                        <a class="icon" href="<%= link %>" target="<%= outter ? '_blank' : '_self' %>">
+                            <i class="<%= favicon %>"></i>
+                        </a>
+                    <% } %>
+                </ul>
+            </p>
+        </div>
+    </div>
+</section>
