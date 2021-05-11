@@ -1,7 +1,7 @@
 ---
 title: 你好，世界
 date: 2021-05-09 13:18:59
-thumbnail: https://oss.utc3.live/hello-podcast.png
+thumbnail: https://oss.utc3.live/hello-podcast.jpeg
 tags: ['开播', '占位']
 ---
 
