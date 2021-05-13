@@ -30,3 +30,15 @@ podcast:
 <!--more-->
 
 下面是 Podcast meta 信息渲染测试。
+
+### 时间轴
+
+{% timeline %}
+
+### 本期作者及嘉宾
+
+{% authors %}
+
+### 相关资料
+
+{% references %}
