@@ -11,6 +11,24 @@ hexo.extend.generator.register("feed", (locals) => {
 
     const podcast = require("podcast");
 
+    // Generate Podcast Categories content
+    let categories = [];
+    Object.keys(theme.rss.config.category).forEach((key) => {
+        const category = {
+            text: key,
+            subcats: []
+        };
+        const subcats = theme.rss.config.category[key];
+        subcats.forEach((subcat) => {
+            category.subcats.push({
+                text: subcat
+            });
+        });
+        categories.push(category);
+    });
+
+    console.log(categories);
+
     // Render for site config
     const feed = new podcast({
         title: config.title,
@@ -23,7 +41,7 @@ hexo.extend.generator.register("feed", (locals) => {
         itunesSummary: config.description,
         itunesAuthor: config.author,
         itunesExplicit: theme.rss.config.explicit,
-        itunesCategory: theme.rss.config.category,
+        itunesCategory: categories,
         itunesOwner: {
             name: config.author,
             email: theme.rss.config.email
@@ -34,7 +52,7 @@ hexo.extend.generator.register("feed", (locals) => {
     locals.posts.sort('date', -1).each(function (post) {
         if (!post.podcast) return;
         let description = post.content.replace(/onclick=".*?"/gi, '')
-            .replace(/class=".*?"/gi, '') .replace(/href="#.*?"/gi, '')
+            .replace(/class=".*?"/gi, '').replace(/href="#.*?"/gi, '')
             .replace(/id=".*?"/gi, '').replace(/rel=".*?"/gi, '')
             .replace(/title=".*?"/gi, '').replace(/\n/g, "")
             .replace(/\s+/g, ' ').trim();
