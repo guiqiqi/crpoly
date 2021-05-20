@@ -1,8 +1,12 @@
 logo:
-  enable: false
-  lightmode: null
-  darkmode: null
-favicon: false
+  enable: true
+  lightmode: https://oss.utc3.live/logo/darkmode.svg
+  darkmode: https://oss.utc3.live/logo/lightmode.svg
+header:
+  index: medium
+  other: default
+  autoscroll: true
+favicon: https://oss.utc3.live/favicon.ico
 timeformat: "MMM, D YYYY"
 podcast: true
 lazyload: true
