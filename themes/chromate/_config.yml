@@ -1,7 +1,7 @@
 logo:
   enable: true
-  lightmode: https://oss.utc3.live/logo/darkmode.svg
-  darkmode: https://oss.utc3.live/logo/lightmode.svg
+  lightmode: https://oss.utc3.live/logo/lightmode.svg
+  darkmode: https://oss.utc3.live/logo/darkmode.svg
 header:
   index: medium
   other: default
