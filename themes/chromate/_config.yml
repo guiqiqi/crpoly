@@ -2,6 +2,7 @@ logo:
   enable: true
   lightmode: https://oss.utc3.live/logo/lightmode.svg
   darkmode: https://oss.utc3.live/logo/darkmode.svg
+  rss: https://oss.utc3.live/logo/logo.png
 header:
   index: medium
   other: default
