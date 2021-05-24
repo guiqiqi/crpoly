@@ -51,7 +51,7 @@ Enjoy the Podcast.
 
 节目片尾曲：
 
-- 创作自 Incredibox - 这一个有趣的音乐制作软件；他们的地址是：https://www.incredibox.com
+- 创作自 Incredibox - 这是一个有趣的音乐制作软件；他们的地址是：https://www.incredibox.com
 - 基于 [非商业性质用途](https://www.incredibox.com/info/faq#flag-property) 获准使用
 
 节目使用图片：
