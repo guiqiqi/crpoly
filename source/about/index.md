@@ -38,3 +38,23 @@ date: 2021-05-01 20:32:59
 除了我们之外，节目将不定期邀请一些朋友来聊天。
 
 Enjoy the Podcast.
+
+---
+
+## 版权声明
+
+节目片头曲：
+
+- Flute Duet in C minor - III. Scherzo - Allegro molto
+- 来自：https://musopen.org/music/42773-flute-duet-in-c-minor/
+- 基于 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 协议使用
+
+节目片尾曲：
+
+- 创作自 Incredibox - 这一个有趣的音乐制作软件；他们的地址是：https://www.incredibox.com
+- 基于 [非商业性质用途](https://www.incredibox.com/info/faq#flag-property) 获准使用
+
+节目使用图片：
+
+- 第一期：https://pixabay.com/zh/illustrations/forest-mountains-night-sky-5375005/
+
