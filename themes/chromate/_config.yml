@@ -126,11 +126,11 @@ rss:
 #   info: 蓝色
 #   warning: 黄色
 boardcast: 
-  enable: true
+  enable: false
   color: default
   message: '纪念袁隆平院士。'
 
 # Site mourn mode, enable to get a global grayscale filter
 # ------------------------------------------------------------
 # 站点悼念模式 - 启用后会为站点整体提供灰色滤镜
-mourn: true
+mourn: false
