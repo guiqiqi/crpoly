@@ -52,4 +52,4 @@ hexo.extend.tag.register('timeline', function (_args) {
     </ul>
     `
     , {page: page, urler: urler});
-})
+});

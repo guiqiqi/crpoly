@@ -64,3 +64,13 @@ pre {
     padding: 1rem 1rem 1rem!important;
     background-color: transparent!important
 }
+
+.subnav-top {
+    border-bottom: 1px solid;
+    padding-bottom: 1rem;
+    display: inline;
+}
+
+.subnav-bottom {
+    margin-top: 1.5rem !important;
+}
