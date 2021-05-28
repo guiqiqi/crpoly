@@ -68,9 +68,7 @@ highlight:
 # 你可以去 Font Awesome 5 上面选一些好看的图标
 # 配置格式：
 #   ['链接地址', '图标类', '图标之后的文字']
-navbar:
-  - ['mailto:privet@utc3.live', 'fa fa-paper-plane', '']
-  - ['https://github.com/guiqiqi/chromate', 'fa fa-github', '']
+navbar: null
 
 # Subnav configuration will show below navbar with a horizontal divider
 # Configuration format as same as previous
@@ -79,9 +77,14 @@ navbar:
 # 配置模式与上面类似
 subnav:
   - ['/feed.rss', 'fa fa-rss', 'RSS 订阅']
-  - ['https://podcasts.apple.com/us/podcast/流浪东三区/id1567397528', 'fa fa-podcast', ' Apple Podcast']
+  - ['https://podcasts.apple.com/us/podcast/流浪东三区/id1567397528', 'fa fa-podcast', 'Apple Podcast']
+  - ['https://podcasts.apple.com/cn/podcast/流浪东三区/id1569145430', 'fa fa-podcast', '国区 Apple Podcast']
   - ['https://podcasts.google.com/feed/aHR0cHM6Ly91dGMzLmxpdmUvZmVlZC5yc3M', 'fa fa-google', 'Google Podcast']
   - ['https://ximalaya.com/album/49806301', 'fa fa-headphones', '喜马拉雅']
+  - ['https://www.xiaoyuzhoufm.com/podcast/60ae12317f5973eb92212a78?s=eyJ1IjogIjYwOWQxNjJmZTBmNWU3MjNiYjRlNGExYSJ9', 'fa fa-space-shuttle', '小宇宙 FM']
+  - ['https://overcast.fm/itunes1567397528', 'fa fa-bullseye', 'Overcast']
+  - ['https://open.spotify.com/show/3JzbdsCw7p8NvzZG8Vusui', 'fa fa-spotify', 'Spotify']
+  - ['mailto:privet@utc3.live', 'fa fa-envelope', '联系我们']
 
 # Menubar and its texts
 # ------------------------------------------------------------
