@@ -45,8 +45,18 @@ Enjoy the Podcast.
 
 节目片头曲：
 
-- Flute Duet in C minor - III. Scherzo - Allegro molto
-- 来自：https://musopen.org/music/42773-flute-duet-in-c-minor/
+- 第一期：
+
+  Flute Duet in C minor - III. Scherzo - Allegro molto
+
+  https://musopen.org/music/42773-flute-duet-in-c-minor/
+
+- 第二期：
+
+  The Carnival of the Animals - I. Lions Royal March (Solo piano version) - Markus Staab
+
+  https://musopen.org/music/1454-the-carnival-of-the-animals/
+
 - 基于 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 协议使用
 
 节目片尾曲：
@@ -57,4 +67,5 @@ Enjoy the Podcast.
 节目使用图片：
 
 - 第一期：https://pixabay.com/zh/illustrations/forest-mountains-night-sky-5375005/
+- 第二期：https://pixabay.com/zh/illustrations/dinosaur-tyrannosaurus-beast-spikes-5995333/
 
