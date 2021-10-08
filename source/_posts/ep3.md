@@ -7,10 +7,10 @@ podcast:
   subtitle: EP.3 在作弊率高达20%的考场上，你会看到什么｜就读体验测评（下）
   authors: ['老胡', '小方', 'Opac']
   cover: https://oss.utc3.live/ep3/thumbnail.webp
-  duration: 
+  duration: 5640
   media:
     url: https://oss.utc3.live/ep3/track.mp3
-    size: 
+    size: 80511369
     type: audio/mpeg
   chapters:
     - ['五分制的考试评级制度', 97]
