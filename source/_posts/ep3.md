@@ -1,6 +1,6 @@
 ---
 title: EP.3 在作弊率高达20%的考场上，你会看到什么｜就读体验测评（下）
-date: 2021-09-18 22:10:55
+date: 2021-10-08 15:10:55
 tags: ["考试", "舞弊", "行贿", "新冠疫情"]
 thumbnail: https://oss.utc3.live/ep3/cover.webp
 podcast:
