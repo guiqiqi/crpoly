@@ -51,13 +51,23 @@ Enjoy the Podcast.
 
   https://musopen.org/music/42773-flute-duet-in-c-minor/
 
+  基于 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 协议使用
+
 - 第二期：
 
   The Carnival of the Animals - I. Lions Royal March (Solo piano version) - Markus Staab
 
   https://musopen.org/music/1454-the-carnival-of-the-animals/
 
-- 基于 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 协议使用
+  基于 [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) 协议使用
+
+- 第三期：
+
+  Nocturne in B major, Op. 9 no. 3 - Gleb Ivanov
+
+  https://musopen.org/music/108-nocturnes-op-9/
+
+  基于 [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) 协议使用
 
 节目片尾曲：
 
@@ -68,4 +78,5 @@ Enjoy the Podcast.
 
 - 第一期：https://pixabay.com/zh/illustrations/forest-mountains-night-sky-5375005/
 - 第二期：https://pixabay.com/zh/illustrations/dinosaur-tyrannosaurus-beast-spikes-5995333/
+- 第三期：https://pixabay.com/zh/illustrations/landscape-deer-mountain-nature-5426755/
 
